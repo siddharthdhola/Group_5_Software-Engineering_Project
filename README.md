@@ -14,3 +14,10 @@ In this project we are implementing the following questions on DevGPT dataset(ve
 The dataset we used is as follows:
 https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20231012
 
+## File structure: 
+
+- We have uploaded three files named "Research Question 1.py", "Research Question 2.py" and "Research Question 3.py" for the above-given research questions 1,2, and 3 respectively.
+
+- We have attached one folder named "Results" which contains all the outputs of our three models with the given dataset.
+
+- In the "Results" folder, we have also created three separate folders for the three different models to store their outputs.
