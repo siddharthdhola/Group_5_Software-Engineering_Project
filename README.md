@@ -16,7 +16,7 @@ https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20231012
 
 ## File structure: 
 
-- We have uploaded three files named "Research Question 1.py", "Research Question 2.py" and "Research Question 3.py" for the above-given research questions 1,2, and 3 respectively.
+- We have uploaded three files named "Research Question 1.ipynb", "Research Question 2.ipynb" and "Research Question 3.ipynb" for the above-given research questions 1,2, and 3 respectively. These files also includes the outputs in a step-by-step manner.
 
 - We have attached one folder named "Results" which contains all the outputs of our three models with the given dataset.
 
